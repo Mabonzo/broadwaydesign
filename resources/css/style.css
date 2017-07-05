@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+h4 {
+  font-size: 18px;
+}
+p {
+  font-size: 14px;
+}
+a {
+  color: white;
+  font-size: 18px;
+}
+.banner {
+  color: white;
+  background-image: url("./banner.png");
+  background-size: cover;
+}
+.copy {
+  background-color: dimgrey;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+}
+.hiringlink {
+  color: dimgrey;
+  font-size: 14px;
+}
